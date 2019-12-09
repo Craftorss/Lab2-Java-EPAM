@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Epam_lab2_exportXMLtoDB_:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Epam_lab2_exportXMLtoDB__jar</output-path>
+    <root id="archive" name="Epam_lab2_exportXMLtoDB_.jar">
+      <element id="module-output" name="Epam_lab2_exportXMLtoDB_" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/5 сем/log4j-1.2.15.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../JavaLabs_Epam/src/telephoneStation/mysql-connector-java-8.0.18.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
